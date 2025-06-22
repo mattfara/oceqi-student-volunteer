@@ -1,1 +1,1 @@
-Start for student volunteer recruitment.
+Start for volunteer recruitment.
