@@ -215,40 +215,40 @@
             font-size: 1.1em;
         }
 
-.image-container {
-    width: 300px;
-    height: auto;
-    margin: 0 auto;
-    overflow: hidden;
-    text-align: center;
-}
+        .image-container {
+            width: 300px;
+            height: auto;
+            margin: 0 auto;
+            overflow: hidden;
+            text-align: center;
+        }
 
-.image-container a img {
-    width: 100%;
-    height: auto;
-    display: inline-block;
-}
+        .image-container a img {
+            width: 100%;
+            height: auto;
+            display: inline-block;
+        }
 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: underline;
-}
+        a:link {
+            color: green;
+            background-color: transparent;
+            text-decoration: underline;
+        }
 
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
+        a:visited {
+            color: pink;
+            background-color: transparent;
+            text-decoration: none;
+        }
 
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
+        a:hover {
+            color: red;
+            background-color: transparent;
+            text-decoration: underline;
+        }
 
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
+        a:active {
+            color: yellow;
+            background-color: transparent;
+            text-decoration: underline;
+        }
